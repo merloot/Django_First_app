@@ -25,7 +25,7 @@ SECRET_KEY = '8t5=z0l2k4&27fag5)9^5(j!v1f$x^aqa&-d*wld!0qmj9=em('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['merloot.pythonanywhere.com', ]
+ALLOWED_HOSTS = ['merloot.pythonanywhere.com','127.0.0.1', ]
 
 
 # Application definition
